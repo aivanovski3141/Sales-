@@ -1,0 +1,7 @@
+{
+  "company_name": "Acme Corp",
+  "person_name": "Jane Smith",
+  "person_title": "Chief Technology Officer",
+  "company_website_text": "Acme Corp is a mid-sized Australian logistics company with 450 employees headquartered in Melbourne. We operate a national freight network and are investing in digital transformation to modernise our legacy warehouse management systems. Our technology team of 30 engineers supports internal platforms across five distribution centres. Key priorities include migrating on-premise infrastructure to AWS, consolidating data from multiple operational systems, and building real-time visibility dashboards for our operations team.",
+  "linkedin_profile_text": "Jane Smith — CTO at Acme Corp. Based in Melbourne, Australia. Leading technology strategy and digital transformation across the business. Currently focused on cloud migration, retiring legacy systems, and building a modern data platform to support analytics and operational reporting. Previously VP Engineering at a Series C logistics SaaS startup. Passionate about pragmatic technology leadership and building high-performing engineering teams."
+}
